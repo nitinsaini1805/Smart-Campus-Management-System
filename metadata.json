@@ -1,0 +1,6 @@
+{
+  "name": "Smart Campus Management System",
+  "description": "A comprehensive enterprise-level campus management ERP for students, faculty, and administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
